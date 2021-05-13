@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/react-portfolio/static/css/main.7e64716e.chunk.css",
+    "main.js": "/react-portfolio/static/js/main.389f432e.chunk.js",
+    "main.js.map": "/react-portfolio/static/js/main.389f432e.chunk.js.map",
+    "runtime-main.js": "/react-portfolio/static/js/runtime-main.e2070b43.js",
+    "runtime-main.js.map": "/react-portfolio/static/js/runtime-main.e2070b43.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/react-portfolio/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.6e13a3cc.chunk.js": "/react-portfolio/static/js/2.6e13a3cc.chunk.js",
+    "static/js/2.6e13a3cc.chunk.js.map": "/react-portfolio/static/js/2.6e13a3cc.chunk.js.map",
+    "index.html": "/react-portfolio/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/react-portfolio/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.7e64716e.chunk.css.map": "/react-portfolio/static/css/main.7e64716e.chunk.css.map",
+    "static/js/2.6e13a3cc.chunk.js.LICENSE.txt": "/react-portfolio/static/js/2.6e13a3cc.chunk.js.LICENSE.txt",
+    "static/media/ecommerce.078cd290.jpg": "/react-portfolio/static/media/ecommerce.078cd290.jpg",
+    "static/media/img1.b02a2d85.jpg": "/react-portfolio/static/media/img1.b02a2d85.jpg",
+    "static/media/landing pg.eb27953d.jpg": "/react-portfolio/static/media/landing pg.eb27953d.jpg",
+    "static/media/portfolio.cb138be1.jpg": "/react-portfolio/static/media/portfolio.cb138be1.jpg",
+    "static/media/project1.c581d9bf.jpg": "/react-portfolio/static/media/project1.c581d9bf.jpg",
+    "static/media/regilogin.d35e2557.jpg": "/react-portfolio/static/media/regilogin.d35e2557.jpg",
+    "static/media/restaurant.b0e93a60.jpg": "/react-portfolio/static/media/restaurant.b0e93a60.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e2070b43.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.6e13a3cc.chunk.js",
+    "static/css/main.7e64716e.chunk.css",
+    "static/js/main.389f432e.chunk.js"
+  ]
+}
